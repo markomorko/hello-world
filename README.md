@@ -3,4 +3,8 @@ Pruebas con Git
 
 1 Edición del archivo readme
 
+<<<<<<< HEAD
 3 Cambio en mi rama: nueva-rama; voy a subirla al repositorio
+=======
+2 Cambios desde mi pc local.
+>>>>>>> master
